@@ -43,7 +43,7 @@
  <summary><b> 🍭 Grupos Oficiales </b></summary>
 
  * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VazHywx0rGiUAYluYB24)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/Lf5b8iMlbCbEvYlDQC6SgC)
+* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/H6z7ML8mxAyDMMHtpax67S)
 * Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/Lf5b8iMlbCbEvYlDQC6SgC)
 </details>
 
