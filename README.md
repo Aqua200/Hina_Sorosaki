@@ -66,6 +66,10 @@
     <img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="destroy" style="border-radius: 50%;"/>
 </a>
 
+<a href="https://github.com/https0J" style="display:inline-block; text-decoration: none;">
+    <img src="https://github.com/https0J" width="130" height="130" alt="https0J" style="border-radius: 50%;"/>
+</a>
+
 
 
 
