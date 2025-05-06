@@ -62,6 +62,14 @@
 
 ### **`🌟 Colaboradores`**
 
+<a href="https://github.com/The-King-Destroy" style="display:inline-block; text-decoration: none;">
+    <img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="destroy" style="border-radius: 50%;"/>
+</a>
+
+
+
+
+
 ### **`👑 Propietario`**
 <a
 href="https://github.com/Aqua200"><img src="https://github.com/Aqua200.png" width="130" height="130" alt="
